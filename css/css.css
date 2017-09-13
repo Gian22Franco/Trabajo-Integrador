@@ -1,3 +1,6 @@
+body {
+  background-image: url('../imagenes/fondo.jpg');
+}
 .logo-net {
   color: red;
   font-family: 'Yanone Kaffeesatz', sans-serif;
